@@ -1,0 +1,2000 @@
+{
+  "continuation" : "233392.4791037672_ETHEREUM:0x704bf12276f5c4bc9349d0e119027ead839b081b",
+  "result" : [ {
+    "id" : "ETHEREUM:0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 2.9324808575760115E7,
+      "changePercent" : -24.84195879
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 12818.8088052867
+    },
+    "itemsBought" : 436,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 29.8,
+      "changePercent" : -1.84453228
+    },
+    "listed" : 200,
+    "totalItemSupply" : 10000,
+    "ownersCount" : 5786
+  }, {
+    "id" : "ETHEREUM:0xbd3531da5cf5857e7cfaa92426877b022e612cf8",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 2.489982777921774E7,
+      "changePercent" : 39.33548157
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 10827.8759865537
+    },
+    "itemsBought" : 1045,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 11.15,
+      "changePercent" : 19.2513369
+    },
+    "listed" : 277,
+    "totalItemSupply" : 8888,
+    "ownersCount" : 4630
+  }, {
+    "id" : "ETHEREUM:0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 1.2981677141905729E7,
+      "changePercent" : -17.00933796
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 5619.4530211714
+    },
+    "itemsBought" : 994,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 5.72,
+      "changePercent" : -3.03441261
+    },
+    "listed" : 361,
+    "totalItemSupply" : 19486,
+    "ownersCount" : 11811
+  }, {
+    "id" : "ETHEREUM:0x524cab2ec69124574082676e6f654a18df49a048",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 9409380.814668268,
+      "changePercent" : 39.66085251
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 4068.9559722106
+    },
+    "itemsBought" : 4103,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 1.189,
+      "changePercent" : 51.46496815
+    },
+    "listed" : 598,
+    "totalItemSupply" : 21396,
+    "ownersCount" : 7976
+  }, {
+    "id" : "ETHEREUM:0x8821bee2ba0df28761afff119d66390d594cd280",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 9307265.407249495,
+      "changePercent" : -28.29623406
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 4023.8887711916
+    },
+    "itemsBought" : 1256,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 3.12,
+      "changePercent" : -7.55555556
+    },
+    "listed" : 142,
+    "totalItemSupply" : 8953,
+    "ownersCount" : 2583
+  }, {
+    "id" : "ETHEREUM:0xed5af388653567af2f388e6224dc7c4b3241c544",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 8030063.657032716,
+      "changePercent" : -21.38443986
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 3476.1442155527
+    },
+    "itemsBought" : 552,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 6.6648,
+      "changePercent" : 1.75267176
+    },
+    "listed" : 148,
+    "totalItemSupply" : 10000,
+    "ownersCount" : 4423
+  }, {
+    "id" : "IMMUTABLEX:0xacb3c6a43d15b907e8433077b6d38ae40936fe2c",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 6149661.704290543,
+      "changePercent" : 28.10275462
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 2657.6405934322
+    },
+    "itemsBought" : 102516,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 3.2716E-6,
+      "changePercent" : 29.55292441
+    },
+    "listed" : 832689,
+    "totalItemSupply" : 31975146,
+    "ownersCount" : 206283
+  }, {
+    "id" : "ETHEREUM:0x32973908faee0bf825a343000fe412ebe56f802a",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 4744314.615253959,
+      "changePercent" : 75.22962449
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 2060.1222598352
+    },
+    "itemsBought" : 1110,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 2,
+      "changePercent" : 37.45704467
+    },
+    "listed" : 172,
+    "totalItemSupply" : 12061,
+    "ownersCount" : 2694
+  }, {
+    "id" : "ETHEREUM:0x596a5cd859ad53fec23cd3fcd77522f0b407920d",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 4459208.64530229,
+      "changePercent" : null
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 2008.6518107421
+    },
+    "itemsBought" : 838,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 2.404,
+      "changePercent" : null
+    },
+    "listed" : 55,
+    "totalItemSupply" : 4666,
+    "ownersCount" : 1915
+  }, {
+    "id" : "ETHEREUM:0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 3778561.1118096784,
+      "changePercent" : 10.22029669
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 1673.8151556481
+    },
+    "itemsBought" : 1109,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 1.449,
+      "changePercent" : -6.51612903
+    },
+    "listed" : 608,
+    "totalItemSupply" : 19518,
+    "ownersCount" : 10063
+  }, {
+    "id" : "ETHEREUM:0x5af0d9827e0c53e4799bb226655a1de152a425a5",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 3393229.7333238297,
+      "changePercent" : -31.60907899
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 1484.7013995458
+    },
+    "itemsBought" : 442,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 3.05,
+      "changePercent" : -14.08450704
+    },
+    "listed" : 98,
+    "totalItemSupply" : 10000,
+    "ownersCount" : 3670
+  }, {
+    "id" : "ETHEREUM:0x5946aeaab44e65eb370ffaa6a7ef2218cff9b47d",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 3382778.280709334,
+      "changePercent" : 7.66604762
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 1473.0078790526
+    },
+    "itemsBought" : 537,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 3.17,
+      "changePercent" : 29.440588
+    },
+    "listed" : 123,
+    "totalItemSupply" : 9483,
+    "ownersCount" : 2328
+  }, {
+    "id" : "ETHEREUM:0x769272677fab02575e84945f03eca517acc544cc",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 2868459.285316303,
+      "changePercent" : 66.57446847
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 1266.9560534297
+    },
+    "itemsBought" : 245,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 4.999,
+      "changePercent" : 8.69754294
+    },
+    "listed" : 27,
+    "totalItemSupply" : 9999,
+    "ownersCount" : 4093
+  }, {
+    "id" : "ETHEREUM:0xd564c25b760cb278a55bdd98831f4ff4b6c97b38",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 2760059.5760740703,
+      "changePercent" : 313.80957259
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 1198.4865729502
+    },
+    "itemsBought" : 2645,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.619,
+      "changePercent" : 138.07692308
+    },
+    "listed" : 205,
+    "totalItemSupply" : 6134,
+    "ownersCount" : 1105
+  }, {
+    "id" : "ETHEREUM:0x2a04ff00484eff8429ed1382c9fa88bad8a9f1ca",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 2345487.2755366247,
+      "changePercent" : -67.4243357
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 1034.0622795668
+    },
+    "itemsBought" : 2104,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.41,
+      "changePercent" : -19.44831922
+    },
+    "listed" : 71,
+    "totalItemSupply" : 2222,
+    "ownersCount" : 1093
+  }, {
+    "id" : "ETHEREUM:0xacf63e56fd08970b43401492a02f6f38b6635c91",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 2341892.2147032125,
+      "changePercent" : 62.29669577
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 1004.8732220645
+    },
+    "itemsBought" : 478,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 2.25,
+      "changePercent" : 51.00671141
+    },
+    "listed" : 166,
+    "totalItemSupply" : 7863,
+    "ownersCount" : 2279
+  }, {
+    "id" : "ETHEREUM:0x23581767a106ae21c074b2276d25e5c3e136a68b",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 2338954.2099459525,
+      "changePercent" : -75.83501131
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 1020.4010255259
+    },
+    "itemsBought" : 518,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 1.9989,
+      "changePercent" : -4.80975285
+    },
+    "listed" : 109,
+    "totalItemSupply" : 10000,
+    "ownersCount" : 5927
+  }, {
+    "id" : "ETHEREUM:0x0581ddf7a136c6837429a46c6cb7b388a3e52971",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 2280420.3038974213,
+      "changePercent" : 59.85534822
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 998.04728756
+    },
+    "itemsBought" : 1762,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.51,
+      "changePercent" : -12.06896552
+    },
+    "listed" : 160,
+    "totalItemSupply" : 5555,
+    "ownersCount" : 2022
+  }, {
+    "id" : "ETHEREUM:0x59325733eb952a92e069c87f0a6168b29e80627f",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 1558236.1230130594,
+      "changePercent" : 163.85827872
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 674.8603551543
+    },
+    "itemsBought" : 226,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 4.1,
+      "changePercent" : 71.11853088
+    },
+    "listed" : 82,
+    "totalItemSupply" : 8888,
+    "ownersCount" : 2108
+  }, {
+    "id" : "ETHEREUM:0xfd1b0b0dfa524e1fd42e7d51155a663c581bbd50",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 1504241.9200337904,
+      "changePercent" : 12.64140171
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 654.6941648889
+    },
+    "itemsBought" : 1079,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.586,
+      "changePercent" : -8.42319112
+    },
+    "listed" : 313,
+    "totalItemSupply" : 11405,
+    "ownersCount" : 4456
+  }, {
+    "id" : "ETHEREUM:0x8d9710f0e193d3f95c0723eaaf1a81030dc9116d",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 1487987.1991687028,
+      "changePercent" : 82.17564896
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 649.8533494939
+    },
+    "itemsBought" : 137,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 3.5,
+      "changePercent" : 9.375
+    },
+    "listed" : 90,
+    "totalItemSupply" : 10000,
+    "ownersCount" : 1456
+  }, {
+    "id" : "ETHEREUM:0x062e691c2054de82f28008a8ccc6d7a1c8ce060d",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 1465186.5897346921,
+      "changePercent" : 26.81921069
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 628.8631889111
+    },
+    "itemsBought" : 915,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.66634,
+      "changePercent" : 35.9877551
+    },
+    "listed" : 97,
+    "totalItemSupply" : 7399,
+    "ownersCount" : 2919
+  }, {
+    "id" : "ETHEREUM:0x8a90cab2b38dba80c64b7734e58ee1db38b8992e",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 1138849.7381739735,
+      "changePercent" : -59.30765261
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 494.3080055063
+    },
+    "itemsBought" : 234,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 2.1889,
+      "changePercent" : -0.50454545
+    },
+    "listed" : 274,
+    "totalItemSupply" : 9998,
+    "ownersCount" : 5775
+  }, {
+    "id" : "ETHEREUM:0xe012baf811cf9c05c408e879c399960d1f305903",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 1092807.7055846923,
+      "changePercent" : 73.20084105
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 477.6175939709
+    },
+    "itemsBought" : 122,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 3.95,
+      "changePercent" : 19.76955731
+    },
+    "listed" : 107,
+    "totalItemSupply" : 6474,
+    "ownersCount" : 3483
+  }, {
+    "id" : "ETHEREUM:0x9a27d13a4896baa03843a0728dff6007d665f8ee",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 1058369.121673181,
+      "changePercent" : -54.45299565
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 462.3813962935
+    },
+    "itemsBought" : 152,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 3.5,
+      "changePercent" : 11.92836585
+    },
+    "listed" : 6,
+    "totalItemSupply" : 2061,
+    "ownersCount" : 649
+  }, {
+    "id" : "ETHEREUM:0xb6a37b5d14d502c3ab0ae6f3a0e058bc9517786e",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 1045695.2678246879,
+      "changePercent" : -39.2206089
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 456.1482961458
+    },
+    "itemsBought" : 679,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.6399,
+      "changePercent" : -5.89692044
+    },
+    "listed" : 378,
+    "totalItemSupply" : 14479,
+    "ownersCount" : 5042
+  }, {
+    "id" : "ETHEREUM:0x20577896ea6113ed8c94b2f08f3893bdc08eba22",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 999348.2861500632,
+      "changePercent" : 100.66886334
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 432.7070126725
+    },
+    "itemsBought" : 103,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 5.35,
+      "changePercent" : 78.33333333
+    },
+    "listed" : 18,
+    "totalItemSupply" : 600,
+    "ownersCount" : 373
+  }, {
+    "id" : "ETHEREUM:0xb7f7f6c52f2e2fdb1963eab30438024864c313f6",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 997981.7139563091,
+      "changePercent" : 20.23116514
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 439.3925865742
+    },
+    "itemsBought" : 8,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 129,
+      "changePercent" : 0
+    },
+    "listed" : 1,
+    "totalItemSupply" : 835,
+    "ownersCount" : 164
+  }, {
+    "id" : "ETHEREUM:0x142e03367ede17cd851477a4287d1f35676e6dc2",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 978719.9133806454,
+      "changePercent" : -37.19764941
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 425.2641234136
+    },
+    "itemsBought" : 666,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.633999,
+      "changePercent" : -0.93765625
+    },
+    "listed" : 86,
+    "totalItemSupply" : 10091,
+    "ownersCount" : 3365
+  }, {
+    "id" : "ETHEREUM:0x5c1a0cc6dadf4d0fb31425461df35ba80fcbc110",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 950516.8279702275,
+      "changePercent" : 5.09653162
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 416.3443956791
+    },
+    "itemsBought" : 339,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 1.28,
+      "changePercent" : 34.75102642
+    },
+    "listed" : 185,
+    "totalItemSupply" : 5000,
+    "ownersCount" : 2057
+  }, {
+    "id" : "ETHEREUM:0xd3d9ddd0cf0a5f0bfb8f7fceae075df687eaebab",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 938405.4046701601,
+      "changePercent" : 1.74980339
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 405.5754640908
+    },
+    "itemsBought" : 621,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.6,
+      "changePercent" : -13.54466859
+    },
+    "listed" : 141,
+    "totalItemSupply" : 9998,
+    "ownersCount" : 2739
+  }, {
+    "id" : "ETHEREUM:0x9dc206dcc5d5f49d1d63fa08225bfa43f47bfbbb",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 905382.2880156185,
+      "changePercent" : -30.4732647
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 395.5176121936
+    },
+    "itemsBought" : 1707,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.1893,
+      "changePercent" : -5.35
+    },
+    "listed" : 1155,
+    "totalItemSupply" : 10000,
+    "ownersCount" : 3647
+  }, {
+    "id" : "ETHEREUM:0x6339e5e072086621540d0362c4e3cea0d643e114",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 855482.4316760917,
+      "changePercent" : -5.579042
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 372.2508559641
+    },
+    "itemsBought" : 644,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.433497,
+      "changePercent" : -6.37213823
+    },
+    "listed" : 374,
+    "totalItemSupply" : 16000,
+    "ownersCount" : 4578
+  }, {
+    "id" : "ETHEREUM:0xc4973de5ee925b8219f1e74559fb217a8e355ecf",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 855192.3287239623,
+      "changePercent" : 684.41774754
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 375.7587852337
+    },
+    "itemsBought" : 830,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.56,
+      "changePercent" : 12.02240448
+    },
+    "listed" : 79,
+    "totalItemSupply" : 5555,
+    "ownersCount" : 1574
+  }, {
+    "id" : "ETHEREUM:0x18b9db07cf194aac853daaa076d421b1dd0c75b0",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 816059.013906592,
+      "changePercent" : 16.00043553
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 359.4185218168
+    },
+    "itemsBought" : 1147,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.354999999,
+      "changePercent" : 18.72909666
+    },
+    "listed" : 111,
+    "totalItemSupply" : 5555,
+    "ownersCount" : 1607
+  }, {
+    "id" : "ETHEREUM:0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 812032.8311294626,
+      "changePercent" : -39.83374113
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 355.1741864845
+    },
+    "itemsBought" : 404,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.559,
+      "changePercent" : -9.83870968
+    },
+    "listed" : 485,
+    "totalItemSupply" : 84133,
+    "ownersCount" : 17202
+  }, {
+    "id" : "ETHEREUM:0xba30e5f9bb24caa003e9f2f0497ad287fdf95623",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 792416.21433291,
+      "changePercent" : -13.36976642
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 344.2799143665
+    },
+    "itemsBought" : 203,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 1.7,
+      "changePercent" : -2.85714286
+    },
+    "listed" : 195,
+    "totalItemSupply" : 9602,
+    "ownersCount" : 5236
+  }, {
+    "id" : "ETHEREUM:0x3bf2922f4520a8ba0c2efc3d2a1539678dad5e9d",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 760543.0368914385,
+      "changePercent" : -13.80631265
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 328.6011599437
+    },
+    "itemsBought" : 453,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.948999,
+      "changePercent" : -9.61905678
+    },
+    "listed" : 194,
+    "totalItemSupply" : 7777,
+    "ownersCount" : 3725
+  }, {
+    "id" : "ETHEREUM:0xfc8a98c22a9e32948ab028414d67c62c49b16864",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 755195.8600701349,
+      "changePercent" : 46.7227825
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 327.1276290686
+    },
+    "itemsBought" : 931,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.34,
+      "changePercent" : 48.47161572
+    },
+    "listed" : 204,
+    "totalItemSupply" : 10000,
+    "ownersCount" : 2931
+  }, {
+    "id" : "ETHEREUM:0x9798b2b9543d61d4ea8c88e9692f87d225cf8997",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 729928.8748836461,
+      "changePercent" : null
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 317.2145303126
+    },
+    "itemsBought" : 2804,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.0888,
+      "changePercent" : 26.85714286
+    },
+    "listed" : 107,
+    "totalItemSupply" : 2222,
+    "ownersCount" : 826
+  }, {
+    "id" : "ETHEREUM:0x364c828ee171616a39897688a831c2499ad972ec",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 703515.5248313736,
+      "changePercent" : -34.56061891
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 306.5911054086
+    },
+    "itemsBought" : 433,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.745,
+      "changePercent" : 26.27118644
+    },
+    "listed" : 139,
+    "totalItemSupply" : 9998,
+    "ownersCount" : 2106
+  }, {
+    "id" : "ETHEREUM:0xe1dc516b1486aba548eecd2947a11273518434a4",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 701600.3000443194,
+      "changePercent" : -80.76347541
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 308.1514931213
+    },
+    "itemsBought" : 172,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 2,
+      "changePercent" : 7.52688172
+    },
+    "listed" : 18,
+    "totalItemSupply" : 3333,
+    "ownersCount" : 1102
+  }, {
+    "id" : "ETHEREUM:0x1a92f7381b9f03921564a437210bb9396471050c",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 686762.7797807876,
+      "changePercent" : -29.79955454
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 300.1008650455
+    },
+    "itemsBought" : 276,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.9897,
+      "changePercent" : -11.63392857
+    },
+    "listed" : 282,
+    "totalItemSupply" : 9968,
+    "ownersCount" : 5921
+  }, {
+    "id" : "ETHEREUM:0xe6b9033a3d2f7f56c74751e458ba435547da1c26",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 686704.0933326884,
+      "changePercent" : 29.51465021
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 297.2641840919
+    },
+    "itemsBought" : 30,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 9.45,
+      "changePercent" : 3.84615385
+    },
+    "listed" : 156,
+    "totalItemSupply" : 9998,
+    "ownersCount" : 2906
+  }, {
+    "id" : "ETHEREUM:0x0fc3dd8c37880a297166bed57759974a157f0e74",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 683497.8414060036,
+      "changePercent" : 119.95687889
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 302.4593957166
+    },
+    "itemsBought" : 320,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 1.2,
+      "changePercent" : 48.51485149
+    },
+    "listed" : 466,
+    "totalItemSupply" : 11001,
+    "ownersCount" : 2157
+  }, {
+    "id" : "ETHEREUM:0x8a3749936e723325c6b645a0901470cd9e790b94",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 676057.3019403389,
+      "changePercent" : 195.54481741
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 292.4814229046
+    },
+    "itemsBought" : 727,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.49,
+      "changePercent" : 84.90635814
+    },
+    "listed" : 79,
+    "totalItemSupply" : 7000,
+    "ownersCount" : 1271
+  }, {
+    "id" : "ETHEREUM:0x1b829b926a14634d36625e60165c0770c09d02b2",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 671214.3268978953,
+      "changePercent" : 21.82863176
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 292.7267423158
+    },
+    "itemsBought" : 403,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.698998,
+      "changePercent" : 18.49432107
+    },
+    "listed" : 90,
+    "totalItemSupply" : 10420,
+    "ownersCount" : 3354
+  }, {
+    "id" : "ETHEREUM:0x4481507cc228fa19d203bd42110d679571f7912e",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 665223.6485879177,
+      "changePercent" : 69.4797229
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 290.9886223174
+    },
+    "itemsBought" : 103,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 3.085,
+      "changePercent" : 20.5078125
+    },
+    "listed" : 92,
+    "totalItemSupply" : 3206,
+    "ownersCount" : 1155
+  }, {
+    "id" : "ETHEREUM:0x7a63d17f5a59bca04b6702f461b1f1a1c59b100b",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 615368.7404012255,
+      "changePercent" : 47.51407837
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 268.6288357518
+    },
+    "itemsBought" : 33,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 7.85,
+      "changePercent" : 2.08062419
+    },
+    "listed" : 93,
+    "totalItemSupply" : 1000,
+    "ownersCount" : 621
+  }, {
+    "id" : "ETHEREUM:0xe4afaeb75e2e33fe708639cf72b4f835eebb8d18",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 607642.4845964058,
+      "changePercent" : null
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 260.6781591499
+    },
+    "itemsBought" : 5805,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.0185,
+      "changePercent" : null
+    },
+    "listed" : 462,
+    "totalItemSupply" : 4488,
+    "ownersCount" : 2133
+  }, {
+    "id" : "ETHEREUM:0xb9951b43802dcf3ef5b14567cb17adf367ed1c0f",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 593132.4043739989,
+      "changePercent" : 62.69669793
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 258.3944906975
+    },
+    "itemsBought" : 15,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 16.5,
+      "changePercent" : -13.15789474
+    },
+    "listed" : 38,
+    "totalItemSupply" : 1926,
+    "ownersCount" : 356
+  }, {
+    "id" : "ETHEREUM:0x17ed38f5f519c6ed563be6486e629041bed3dfbc",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 587954.0813000645,
+      "changePercent" : 221.35699304
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 254.5333128687
+    },
+    "itemsBought" : 900,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.365,
+      "changePercent" : 30.73065903
+    },
+    "listed" : 167,
+    "totalItemSupply" : 7500,
+    "ownersCount" : 1512
+  }, {
+    "id" : "ETHEREUM:0x7bd29408f11d2bfc23c34f18275bbf23bb716bc7",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 582748.1832850503,
+      "changePercent" : 4.83294189
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 253.1686240955
+    },
+    "itemsBought" : 185,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 1.2987,
+      "changePercent" : -7.89361702
+    },
+    "listed" : 267,
+    "totalItemSupply" : 20000,
+    "ownersCount" : 6726
+  }, {
+    "id" : "ETHEREUM:0xe034bb2b1b9471e11cf1a0a9199a156fb227aa5d",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 565224.752800041,
+      "changePercent" : 922.24939617
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 246.1196675431
+    },
+    "itemsBought" : 34,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 6.45,
+      "changePercent" : 9.69387755
+    },
+    "listed" : 65,
+    "totalItemSupply" : 500,
+    "ownersCount" : 252
+  }, {
+    "id" : "ETHEREUM:0xe785e82358879f061bc3dcac6f0444462d4b5330",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 552851.5650006215,
+      "changePercent" : -29.50264529
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 241.7099416292
+    },
+    "itemsBought" : 131,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 1.579,
+      "changePercent" : 11.59018487
+    },
+    "listed" : 255,
+    "totalItemSupply" : 10000,
+    "ownersCount" : 5457
+  }, {
+    "id" : "ETHEREUM:0x3c14f8a113ada4922d37f5fd9e1cc8a1368ddf3e",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 510327.9558422547,
+      "changePercent" : 32.55262265
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 219.2661633434
+    },
+    "itemsBought" : 4,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 66.66,
+      "changePercent" : -4.77142857
+    },
+    "listed" : 51,
+    "totalItemSupply" : 999,
+    "ownersCount" : 486
+  }, {
+    "id" : "ETHEREUM:0xcbeb9b45ba9fbfbbccc289ee48dadd6fb65ae2a7",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 494667.1308486796,
+      "changePercent" : 729.68773459
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 218.5704768997
+    },
+    "itemsBought" : 26,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 8.3,
+      "changePercent" : 36.06557377
+    },
+    "listed" : 7,
+    "totalItemSupply" : 500,
+    "ownersCount" : 413
+  }, {
+    "id" : "ETHEREUM:0x34eebee6942d8def3c125458d1a86e0a897fd6f9",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 489951.1930323675,
+      "changePercent" : 124.00404868
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 212.8065911089
+    },
+    "itemsBought" : 313,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.699994,
+      "changePercent" : 25.22254025
+    },
+    "listed" : 81,
+    "totalItemSupply" : 5382,
+    "ownersCount" : 2986
+  }, {
+    "id" : "ETHEREUM:0x09233d553058c2f42ba751c87816a8e9fae7ef10",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 451589.3233677518,
+      "changePercent" : -11.80191188
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 197.1028172523
+    },
+    "itemsBought" : 176,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.949,
+      "changePercent" : -6.86947988
+    },
+    "listed" : 271,
+    "totalItemSupply" : 8888,
+    "ownersCount" : 3821
+  }, {
+    "id" : "ETHEREUM:0x9a74559843f7721f69651eca916b780ef78bd060",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 435094.589555701,
+      "changePercent" : null
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 195.9532637507
+    },
+    "itemsBought" : 1054,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.178,
+      "changePercent" : null
+    },
+    "listed" : 256,
+    "totalItemSupply" : 3541,
+    "ownersCount" : 2277
+  }, {
+    "id" : "ETHEREUM:0x716f29b8972d551294d9e02b3eb0fc1107fbf4aa",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 434996.7258320554,
+      "changePercent" : 94.90500787
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 192.3196618574
+    },
+    "itemsBought" : 187,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 1.195,
+      "changePercent" : 35.79560886
+    },
+    "listed" : 100,
+    "totalItemSupply" : 8888,
+    "ownersCount" : 1374
+  }, {
+    "id" : "ETHEREUM:0x71d1e9741da1e25ffd377be56d133359492b9c3b",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 433664.3712611298,
+      "changePercent" : 5639.66012693
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 188.9534305955
+    },
+    "itemsBought" : 747,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.4485,
+      "changePercent" : 540.74174607
+    },
+    "listed" : 99,
+    "totalItemSupply" : 4336,
+    "ownersCount" : 1108
+  }, {
+    "id" : "ETHEREUM:0x790b2cf29ed4f310bf7641f013c65d4560d28371",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 430737.5872469003,
+      "changePercent" : 24.30605297
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 187.421571526
+    },
+    "itemsBought" : 430,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.315,
+      "changePercent" : -3.04709141
+    },
+    "listed" : 783,
+    "totalItemSupply" : 52708,
+    "ownersCount" : 13242
+  }, {
+    "id" : "ETHEREUM:0xa74ae2c6fca0cedbaef30a8ceef834b247186bcf",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 427106.3648952627,
+      "changePercent" : 3245.76056368
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 182.6814172229
+    },
+    "itemsBought" : 880,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.164,
+      "changePercent" : 105
+    },
+    "listed" : 197,
+    "totalItemSupply" : 6628,
+    "ownersCount" : 2974
+  }, {
+    "id" : "ETHEREUM:0x32bb5a147b5371fd901aa4a72b7f82c58a87e36d",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 415999.8472609417,
+      "changePercent" : 371.37449449
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 180.3175983372
+    },
+    "itemsBought" : 88,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 2.44,
+      "changePercent" : 63.75838926
+    },
+    "listed" : 84,
+    "totalItemSupply" : 2263,
+    "ownersCount" : 916
+  }, {
+    "id" : "ETHEREUM:0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 414463.8534773994,
+      "changePercent" : -49.8358856
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 179.3443912865
+    },
+    "itemsBought" : 406,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.44,
+      "changePercent" : 5.26340972
+    },
+    "listed" : 358,
+    "totalItemSupply" : 19950,
+    "ownersCount" : 8091
+  }, {
+    "id" : "ETHEREUM:0x1cb1a5e65610aeff2551a50f76a87a7d3fb649c6",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 408802.5728574113,
+      "changePercent" : -12.82426412
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 176.9512435894
+    },
+    "itemsBought" : 132,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 1.179,
+      "changePercent" : 0.8382662
+    },
+    "listed" : 286,
+    "totalItemSupply" : 7023,
+    "ownersCount" : 3978
+  }, {
+    "id" : "ETHEREUM:0x4e1f41613c9084fdb9e34e11fae9412427480e56",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 385909.7242253809,
+      "changePercent" : 36.50129202
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 166.1272863116
+    },
+    "itemsBought" : 114,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 1.495,
+      "changePercent" : -9.74947178
+    },
+    "listed" : 197,
+    "totalItemSupply" : 9911,
+    "ownersCount" : 2050
+  }, {
+    "id" : "ETHEREUM:0x3af2a97414d1101e2107a70e7f33955da1346305",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 379404.3016992382,
+      "changePercent" : -1.92445676
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 165.2234749134
+    },
+    "itemsBought" : 209,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.79,
+      "changePercent" : -1.22530633
+    },
+    "listed" : 37,
+    "totalItemSupply" : 5420,
+    "ownersCount" : 1899
+  }, {
+    "id" : "ETHEREUM:0x960b7a6bcd451c9968473f7bbfd9be826efd549a",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 376348.1078097318,
+      "changePercent" : -54.09499407
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 164.2212736783
+    },
+    "itemsBought" : 107,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 1.4693,
+      "changePercent" : -7.59119497
+    },
+    "listed" : 51,
+    "totalItemSupply" : 9500,
+    "ownersCount" : 5376
+  }, {
+    "id" : "ETHEREUM:0x4e475806fbc814d6b7b8426d5e183722b2603d4b",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 373870.0792192643,
+      "changePercent" : null
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 164.6109934222
+    },
+    "itemsBought" : 63,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 3.68,
+      "changePercent" : 338.0952381
+    },
+    "listed" : 13,
+    "totalItemSupply" : 298,
+    "ownersCount" : 254
+  }, {
+    "id" : "ETHEREUM:0x57a204aa1042f6e66dd7730813f4024114d74f37",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 366954.8274043302,
+      "changePercent" : 286.15146656
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 157.6040549812
+    },
+    "itemsBought" : 91,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.9,
+      "changePercent" : 100
+    },
+    "listed" : 108,
+    "totalItemSupply" : 5000,
+    "ownersCount" : 2218
+  }, {
+    "id" : "ETHEREUM:0x2c889a24af0d0ec6337db8feb589fa6368491146",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 361455.6177496502,
+      "changePercent" : 1672.23724675
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 159.14
+    },
+    "itemsBought" : 13,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 13.5,
+      "changePercent" : 0
+    },
+    "listed" : 7,
+    "totalItemSupply" : 271,
+    "ownersCount" : 146
+  }, {
+    "id" : "ETHEREUM:0x495f947276749ce646f68ac8c248420045cb7b5e",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 360085.9629911171,
+      "changePercent" : 53.18150473
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 161.2657978746
+    },
+    "itemsBought" : 221,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0,
+      "changePercent" : null
+    },
+    "listed" : 28835,
+    "totalItemSupply" : 2089916,
+    "ownersCount" : 727462
+  }, {
+    "id" : "ETHEREUM:0x39ee2c7b3cb80254225884ca001f57118c8f21b6",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 355380.0899485797,
+      "changePercent" : -51.02613812
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 155.9451790055
+    },
+    "itemsBought" : 79,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 1.948,
+      "changePercent" : -0.1025641
+    },
+    "listed" : 33,
+    "totalItemSupply" : 9999,
+    "ownersCount" : 2960
+  }, {
+    "id" : "ETHEREUM:0x1b41d54b3f8de13d58102c50d7431fd6aa1a2c48",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 352553.8329514319,
+      "changePercent" : 63.35924936
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 153.4151407547
+    },
+    "itemsBought" : 517,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.39,
+      "changePercent" : 69.56521739
+    },
+    "listed" : 129,
+    "totalItemSupply" : 9999,
+    "ownersCount" : 2675
+  }, {
+    "id" : "ETHEREUM:0xc99c679c50033bbc5321eb88752e89a93e9e83c5",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 347761.4367515372,
+      "changePercent" : 85.7439061
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 149.490393424
+    },
+    "itemsBought" : 147,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.999758,
+      "changePercent" : 36.20681199
+    },
+    "listed" : 134,
+    "totalItemSupply" : 3333,
+    "ownersCount" : 1129
+  }, {
+    "id" : "ETHEREUM:0x8ff1523091c9517bc328223d50b52ef450200339",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 341909.3319342971,
+      "changePercent" : 902.42264576
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 148.11401301
+    },
+    "itemsBought" : 575,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.195,
+      "changePercent" : 2.73972603
+    },
+    "listed" : 247,
+    "totalItemSupply" : 20000,
+    "ownersCount" : 7619
+  }, {
+    "id" : "ETHEREUM:0xd1169e5349d1cb9941f3dcba135c8a4b9eacfdde",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 336239.7133654967,
+      "changePercent" : 458.60081737
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 150.9726966381
+    },
+    "itemsBought" : 259,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.498,
+      "changePercent" : 46.04105572
+    },
+    "listed" : 129,
+    "totalItemSupply" : 5715,
+    "ownersCount" : 4207
+  }, {
+    "id" : "ETHEREUM:0x06cf70f6f90e0b1f17d19f3cb962a39e505d5b3f",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 332050.5836653228,
+      "changePercent" : 10.29126603
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 140.9143204084
+    },
+    "itemsBought" : 4,
+    "floorPrice" : null,
+    "listed" : 0,
+    "totalItemSupply" : 472,
+    "ownersCount" : 34
+  }, {
+    "id" : "ETHEREUM:0x036721e5a769cc48b3189efbb9cce4471e8a48b1",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 304820.3928949161,
+      "changePercent" : 16.21278483
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 133.23226016
+    },
+    "itemsBought" : 333,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.3525,
+      "changePercent" : 21.59365298
+    },
+    "listed" : 223,
+    "totalItemSupply" : 5703,
+    "ownersCount" : 1859
+  }, {
+    "id" : "ETHEREUM:0x08d7c0242953446436f34b4c78fe9da38c73668d",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 289298.4889573768,
+      "changePercent" : 142.79102089
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 127.6935265754
+    },
+    "itemsBought" : 42,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 2.749999,
+      "changePercent" : -28.18345869
+    },
+    "listed" : 32,
+    "totalItemSupply" : 1000,
+    "ownersCount" : 919
+  }, {
+    "id" : "ETHEREUM:0xd1258db6ac08eb0e625b75b371c023da478e94a9",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 284900.461701557,
+      "changePercent" : -45.09673176
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 123.6966144807
+    },
+    "itemsBought" : 26,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 4.491,
+      "changePercent" : -37.76761588
+    },
+    "listed" : 21,
+    "totalItemSupply" : 2022,
+    "ownersCount" : 756
+  }, {
+    "id" : "ETHEREUM:0x0d580638a7678980f276a10c3adfef775b62795c",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 284208.9649407512,
+      "changePercent" : null
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 127.5737899384
+    },
+    "itemsBought" : 2822,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.0295,
+      "changePercent" : null
+    },
+    "listed" : 533,
+    "totalItemSupply" : 5500,
+    "ownersCount" : 987
+  }, {
+    "id" : "ETHEREUM:0x7bfd9a55f4c00783b5a8ea18f7735e1a405dd520",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 283378.7468486657,
+      "changePercent" : 87.48376651
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 121.7841727643
+    },
+    "itemsBought" : 431,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.28,
+      "changePercent" : 41.41414141
+    },
+    "listed" : 116,
+    "totalItemSupply" : 3333,
+    "ownersCount" : 1144
+  }, {
+    "id" : "ETHEREUM:0xa92ee7250f1c949c3dfd048da0db8980a65ecfd1",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 278376.5286107887,
+      "changePercent" : null
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 121.1941690994
+    },
+    "itemsBought" : 459,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.24,
+      "changePercent" : null
+    },
+    "listed" : 38,
+    "totalItemSupply" : 777,
+    "ownersCount" : 367
+  }, {
+    "id" : "ETHEREUM:0x2187093a2736442d0b5c5d5464b98fc703e3b88d",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 277907.8649925612,
+      "changePercent" : 111.13923314
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 121.1146607907
+    },
+    "itemsBought" : 179,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.73,
+      "changePercent" : 36.19402985
+    },
+    "listed" : 6,
+    "totalItemSupply" : 10000,
+    "ownersCount" : 1708
+  }, {
+    "id" : "ETHEREUM:0x98582296f119d8a2ef805397aef0c98ba2af2d1a",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 273719.5434503136,
+      "changePercent" : null
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 117.4928576163
+    },
+    "itemsBought" : 466,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.29,
+      "changePercent" : null
+    },
+    "listed" : 146,
+    "totalItemSupply" : 2500,
+    "ownersCount" : 419
+  }, {
+    "id" : "ETHEREUM:0xdfde78d2baec499fe18f2be74b6c287eed9511d7",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 273335.4043732576,
+      "changePercent" : -68.36547157
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 119.6892745723
+    },
+    "itemsBought" : 155,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.069,
+      "changePercent" : 13.1147541
+    },
+    "listed" : 504,
+    "totalItemSupply" : 14440,
+    "ownersCount" : 3476
+  }, {
+    "id" : "ETHEREUM:0xd4e4078ca3495de5b1d4db434bebc5a986197782",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 268813.2210310309,
+      "changePercent" : null
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 114.643870373
+    },
+    "itemsBought" : 1,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 179.4872,
+      "changePercent" : -16.5175814
+    },
+    "listed" : 4,
+    "totalItemSupply" : 512,
+    "ownersCount" : 162
+  }, {
+    "id" : "ETHEREUM:0x4b15a9c28034dc83db40cd810001427d3bd7163d",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 256848.5195258133,
+      "changePercent" : 165.93714949
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 112.3685837001
+    },
+    "itemsBought" : 468,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.2,
+      "changePercent" : -16.49269311
+    },
+    "listed" : 347,
+    "totalItemSupply" : 28297,
+    "ownersCount" : 9229
+  }, {
+    "id" : "ETHEREUM:0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 253392.3645948362,
+      "changePercent" : -30.30689227
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 110.1727866209
+    },
+    "itemsBought" : 350,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 9.0E-4,
+      "changePercent" : -9.09090909
+    },
+    "listed" : 77556,
+    "totalItemSupply" : 3192812,
+    "ownersCount" : 712340
+  }, {
+    "id" : "ETHEREUM:0x79fcdef22feed20eddacbb2587640e45491b757f",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 250434.2311352179,
+      "changePercent" : 8.35221504
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 108.1616725426
+    },
+    "itemsBought" : 128,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.70999,
+      "changePercent" : -7.67360208
+    },
+    "listed" : 240,
+    "totalItemSupply" : 10020,
+    "ownersCount" : 5864
+  }, {
+    "id" : "ETHEREUM:0x6df55525e32a4f1784698f8937adcba645321693",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 245563.4924558924,
+      "changePercent" : 268.25762107
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 106.5476226294
+    },
+    "itemsBought" : 2530,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.01,
+      "changePercent" : 11.11111111
+    },
+    "listed" : 62,
+    "totalItemSupply" : 67,
+    "ownersCount" : 208
+  }, {
+    "id" : "ETHEREUM:0x7f312a75b62846033bc5471c5bcb94b1abfaf06d",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 244955.146709102,
+      "changePercent" : 364.8380208
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 105.0854508845
+    },
+    "itemsBought" : 117,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 1.2127,
+      "changePercent" : 51.5875
+    },
+    "listed" : 1,
+    "totalItemSupply" : 5050,
+    "ownersCount" : 825
+  }, {
+    "id" : "ETHEREUM:0xd774557b647330c91bf44cfeab205095f7e6c367",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 242628.2074314391,
+      "changePercent" : 19.73548004
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 105.775329192
+    },
+    "itemsBought" : 486,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.17,
+      "changePercent" : 0.59171598
+    },
+    "listed" : 1283,
+    "totalItemSupply" : 19998,
+    "ownersCount" : 5578
+  }, {
+    "id" : "ETHEREUM:0x282bdd42f4eb70e7a9d9f40c8fea0825b7f68c5d",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 240319.7511712462,
+      "changePercent" : 46.10818208
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 105.2205653493
+    },
+    "itemsBought" : 27,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 3.798,
+      "changePercent" : -0.05263158
+    },
+    "listed" : 119,
+    "totalItemSupply" : 4855,
+    "ownersCount" : 1049
+  }, {
+    "id" : "ETHEREUM:0xadae0ddaf90170a44adebcfb8eede12041d13220",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 237449.884663173,
+      "changePercent" : 96.34474357
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 102.7413597943
+    },
+    "itemsBought" : 52,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 2.17,
+      "changePercent" : 24
+    },
+    "listed" : 4,
+    "totalItemSupply" : 4,
+    "ownersCount" : 435
+  }, {
+    "id" : "ETHEREUM:0xd9b78a2f1dafc8bb9c60961790d2beefebee56f4",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 235816.5522095638,
+      "changePercent" : 14984.64125916
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 100.6662274616
+    },
+    "itemsBought" : 814,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.082998,
+      "changePercent" : 162.65189873
+    },
+    "listed" : 348,
+    "totalItemSupply" : 8360,
+    "ownersCount" : 3455
+  }, {
+    "id" : "ETHEREUM:0x704bf12276f5c4bc9349d0e119027ead839b081b",
+    "volumeUsd" : {
+      "currency" : "USD",
+      "value" : 233392.4791037672,
+      "changePercent" : 128.10735546
+    },
+    "volumeNative" : {
+      "currency" : "ETH",
+      "value" : 103.1095564497
+    },
+    "itemsBought" : 298,
+    "floorPrice" : {
+      "currency" : "ETH",
+      "value" : 0.301999,
+      "changePercent" : 12.26812095
+    },
+    "listed" : 187,
+    "totalItemSupply" : 9421,
+    "ownersCount" : 2922
+  } ]
+}
